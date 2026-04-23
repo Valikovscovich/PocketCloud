@@ -118,7 +118,7 @@ La documentazione completa del progetto è disponibile al seguente link:
 
 - Valentino Potapchuk
 - Davide Comunale
-- Gabriella Dardia
+- Gabriella D'ardia
 - Angelo Angione
 
 ---
