@@ -1,10 +1,10 @@
-# PocketCloud ☁️
+# PocketCloud 
 Cloud personale mobile-first, sicuro e self-hosted, progettato per offrire controllo dei dati, accesso rapido e altamente personalizzato e crittografia end-to-end.
 *Il cloud personale semplice, sicuro e sempre con te.*
 
 ---
 
-## 📱 Descrizione del progetto
+## Descrizione del progetto
 
 PocketCloud è un’app mobile di **cloud storage personale** che permette agli utenti di archiviare, organizzare e sincronizzare file come foto, documenti, video e note in modo semplice, sicuro e immediato, rendendoli accessibili da qualsiasi dispositivo.
 
@@ -14,7 +14,7 @@ A differenza dei tradizionali servizi cloud, PocketCloud è progettata per offri
 
 ---
 
-## 🎯 Obiettivo
+## Obiettivo
 
 L’obiettivo del progetto è sviluppare un sistema di cloud personale che metta al centro:
 
@@ -27,20 +27,20 @@ PocketCloud punta a offrire un’alternativa più leggera e user-friendly rispet
 
 ---
 
-## ⚙️ Macro-funzionalità
+## Macro-funzionalità
 
-- 🔐 Login e registrazione utente
-- ☁️ Upload e download dei file
-- 📁 Organizzazione dei contenuti in cartelle
-- 🔎 Ricerca rapida dei file
-- 🧠 Sistema di **organizzazione intelligente** basato su regole e parole chiave
-- 📶 Accesso ai file anche offline (con sincronizzazione)
-- 🔄 Sincronizzazione automatica dei contenuti
-- 🔗 Condivisione sicura dei file tra utenti
+- Login e registrazione utente
+-  Upload e download dei file
+-  Organizzazione dei contenuti in cartelle
+-  Ricerca rapida dei file
+-  Sistema di **organizzazione intelligente** basato su regole e parole chiave
+-  Accesso ai file anche offline (con sincronizzazione)
+-  Sincronizzazione automatica dei contenuti
+-  Condivisione sicura dei file tra utenti
 
 ---
 
-## 🔒 Sicurezza e Privacy
+## Sicurezza e Privacy
 
 PocketCloud introduce un modello avanzato di sicurezza basato su:
 
@@ -49,11 +49,11 @@ PocketCloud introduce un modello avanzato di sicurezza basato su:
 - Le **chiavi di cifratura restano all’utente**
 - Il server **non può accedere ai contenuti**
 
-👉 Questo garantisce un livello di sicurezza superiore rispetto ai cloud tradizionali.
+ Questo garantisce un livello di sicurezza superiore rispetto ai cloud tradizionali.
 
 ---
 
-## 🏠 Architettura Self-Hosted
+##  Architettura Self-Hosted
 
 Uno degli elementi distintivi del progetto è la possibilità di utilizzare PocketCloud in modalità **self-hosted**:
 
@@ -63,22 +63,22 @@ Uno degli elementi distintivi del progetto è la possibilità di utilizzare Pock
 
 ---
 
-## 🆚 Analisi dei Competitor
+## Analisi dei Competitor
 
 ### Google Drive
-- ✔️ Molto diffuso e integrato
-- ❌ Complesso e poco focalizzato sull’uso personale
-- ❌ Minore controllo diretto sui dati
+-  Molto diffuso e integrato
+-  Complesso e poco focalizzato sull’uso personale
+-  Minore controllo diretto sui dati
 
 ### iCloud
-- ✔️ Ottima integrazione con dispositivi Apple
-- ❌ Limitato fuori dall’ecosistema Apple
+-  Ottima integrazione con dispositivi Apple
+-  Limitato fuori dall’ecosistema Apple
 
 ### Dropbox
-- ✔️ Semplice e affidabile
-- ❌ Funzionalità limitate nella versione gratuita
+-  Semplice e affidabile
+-  Funzionalità limitate nella versione gratuita
 
-👉 **PocketCloud si differenzia per:**
+ **PocketCloud si differenzia per:**
 - Maggiore semplicità
 - Approccio mobile-first
 - Focus su privacy e controllo dei dati
@@ -86,7 +86,7 @@ Uno degli elementi distintivi del progetto è la possibilità di utilizzare Pock
 
 ---
 
-## 👥 Target utenti
+##  Target utenti
 
 - Studenti universitari
 - Giovani professionisti
@@ -95,7 +95,7 @@ Uno degli elementi distintivi del progetto è la possibilità di utilizzare Pock
 
 ---
 
-## 📂 Documentazione del progetto
+##  Documentazione del progetto
 
 La documentazione completa del progetto è disponibile al seguente link:
 
@@ -103,18 +103,18 @@ La documentazione completa del progetto è disponibile al seguente link:
 
 ---
 
-## 🚀 Stato del progetto
+##  Stato del progetto
 
-🔧 In fase di progettazione
+ In fase di progettazione
 
-- ✔️ Definizione idea
-- ✔️ Creazione repository
-- 🔄 Analisi requisiti (in corso)
-- ⏳ Sviluppo app
+-  Definizione idea
+-  Creazione repository
+-  Analisi requisiti (in corso)
+-  Sviluppo app
 
 ---
 
-## 🧑‍💻 Team
+##  Team
 
 - Valentino Potapchuk
 - Davide Comunale
@@ -123,7 +123,7 @@ La documentazione completa del progetto è disponibile al seguente link:
 
 ---
 
-## 📌 Note
+##  Note
 
 Il progetto è sviluppato nell’ambito dell’Academy di Mobile Programming.
 
